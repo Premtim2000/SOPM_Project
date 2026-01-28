@@ -41,3 +41,36 @@ app-example
 # generated native folders
 /ios
 /android
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.c9/
+
+# OS
+Thumbs.db
+
+# Dependencies lock files (optional, uncomment if preferred)
+# package-lock.json
+# yarn.lock
+
+# Build outputs
+build/
+dist/
+*.apk
+*.aab
+*.ipa
+
+# Environment files
+.env
+.env.production
+.env.development
+
+# Temporary files
+*.log
+*.tmp
+*.bak
