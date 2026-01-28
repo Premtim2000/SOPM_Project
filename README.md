@@ -1,4 +1,4 @@
-# SOPM - Task Manager
+# SOPM - Task Tracker
 
 A simple task management app built with Expo and React Native. Create, track, and complete study tasks with a clean interface. Data is stored locally using SQLite.
 
